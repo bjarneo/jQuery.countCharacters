@@ -23,4 +23,4 @@ trim - if you want to trim the text for whitespace, tabs or newline.<br />
 <br />
 You don't need to set countNode or trim. Just maxLength.<br />
 
-For <a href="http://jsfiddle.net/YVn8A/1/">DEMO: jsFiddle</a>
+For <a href="http://jsfiddle.net/bjarneo/psxSV/">DEMO: jsFiddle</a>
